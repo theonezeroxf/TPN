@@ -1,0 +1,145 @@
+proxy-providers: {}
+proxies:
+    - alterId: 0
+      cipher: auto
+      client-fingerprint: chrome
+      name: "\U0001F1ED\U0001F1F0 香港4|@ripaojiedian"
+      port: 19019
+      server: 45.89.233.67
+      skip-cert-verify: false
+      tfo: false
+      tls: false
+      type: vmess
+      uuid: 802e1632-9c29-4f2d-821f-96a35daeed3b
+    - cipher: aes-256-gcm
+      client-fingerprint: chrome
+      name: "\U0001F1ED\U0001F1F0 香港|@ripaojiedian"
+      password: ENYGONDU94UW1G6X
+      port: 15010
+      server: 8tv68qhq.slashdevslashnetslashtun.net
+      tfo: false
+      type: ss
+    - alterId: 0
+      cipher: auto
+      client-fingerprint: chrome
+      name: "\U0001F1ED\U0001F1F0 香港8|@ripaojiedian"
+      network: ws
+      port: 8080
+      server: bc842b49-swexs0-t1rt5e-1s09x.hgc1.tcpbbr.net
+      skip-cert-verify: false
+      tfo: false
+      tls: false
+      type: vmess
+      uuid: 62b7824e-47dc-11ef-9f2d-f23c9164ca5d
+      ws-opts:
+        headers:
+            Host: broadcastlv.chat.bilibili.com
+        path: /
+    - alterId: 2
+      cipher: auto
+      client-fingerprint: chrome
+      name: "\U0001F1FA\U0001F1F8 美国5|@ripaojiedian"
+      network: ws
+      port: 22641
+      server: tk.hzlt.tkddns.xyz
+      servername: zxjp-a.tkong.cc
+      skip-cert-verify: false
+      tfo: false
+      tls: true
+      type: vmess
+      uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
+      ws-opts:
+        headers:
+            Host: zxjp-a.tkong.cc
+        path: /
+    - cipher: aes-256-gcm
+      client-fingerprint: chrome
+      name: "\U0001F1F8\U0001F1EC 新加坡2|@ripaojiedian"
+      password: O363WP68J33COIEX
+      port: 16009
+      server: ti3hyra4.slashdevslashnetslashtun.net
+      tfo: false
+      type: ss
+    - cipher: aes-256-cfb
+      client-fingerprint: chrome
+      name: "\U0001F1F0\U0001F1F7 韩国|@ripaojiedian"
+      password: qwerREWQ@@
+      port: 15098
+      server: 125.141.31.72
+      tfo: false
+      type: ss
+    - cipher: chacha20-ietf-poly1305
+      client-fingerprint: chrome
+      name: "\U0001F1ED\U0001F1F0 香港2|@ripaojiedian"
+      password: 91a41f4e02dc
+      plugin: v2ray-plugin
+      plugin-opts:
+        host: hkkh11v1.xpmc.cc
+        mode: websocket
+        mux: true
+        path: /utvbnrzejpmt
+        skip-cert-verify: false
+        tls: true
+      port: 33706
+      server: hkkh11v1.xpmc.cc
+      tfo: false
+      type: ss
+    - client-fingerprint: chrome
+      name: "\U0001F1ED\U0001F1F0 香港5|@ripaojiedian"
+      password: 2c605663-b89a-5734-a9d6-97d4743d72cf
+      port: 8313
+      server: dozo01.flztjc.top
+      skip-cert-verify: false
+      sni: hk-13-568.flztjc.net
+      type: trojan
+    - alterId: 64
+      cipher: auto
+      client-fingerprint: chrome
+      name: "\U0001F1ED\U0001F1F0 香港3|@ripaojiedian"
+      port: 35921
+      server: 120.198.71.216
+      skip-cert-verify: false
+      tfo: false
+      tls: false
+      type: vmess
+      uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    - cipher: chacha20-ietf-poly1305
+      client-fingerprint: chrome
+      name: "\U0001F1EF\U0001F1F5 日本2|@ripaojiedian"
+      password: af77ad2f906d
+      plugin: v2ray-plugin
+      plugin-opts:
+        host: jp1v9.8vote.cn
+        mode: websocket
+        mux: true
+        path: /ozasebsz
+        skip-cert-verify: false
+        tls: true
+      port: 26545
+      server: 103.140.136.76
+      tfo: false
+      type: ss
+    - cipher: aes-256-cfb
+      client-fingerprint: chrome
+      name: "\U0001F1F0\U0001F1F7 韩国3|@ripaojiedian"
+      password: 1601e3c29c8db1a88942cf0cad731bf3
+      port: 3306
+      server: 43.131.255.175
+      tfo: false
+      type: ss
+    - alterId: 2
+      cipher: auto
+      client-fingerprint: chrome
+      name: "\U0001F1FA\U0001F1F8 美国|@ripaojiedian"
+      network: ws
+      port: 30832
+      server: v32.heduian.link
+      skip-cert-verify: false
+      tfo: false
+      tls: false
+      type: vmess
+      uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+      ws-opts:
+        headers:
+            Host: baidu.com
+        path: /oooo

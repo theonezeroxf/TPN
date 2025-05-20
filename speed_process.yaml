@@ -1,0 +1,26 @@
+all_config_file:
+- /root/Python_project/clash_node_dir/node_0.yaml
+- /root/Python_project/clash_node_dir/node_1.yaml
+- /root/Python_project/clash_node_dir/node_2.yaml
+- /root/Python_project/clash_node_dir/node_3.yaml
+- /root/Python_project/clash_node_dir/node_4.yaml
+- /root/Python_project/clash_node_dir/node_5.yaml
+- /root/Python_project/clash_node_dir/node_6.yaml
+- /root/Python_project/tranfer2_clash_dir/node_0.yaml
+- /root/Python_project/tranfer2_clash_dir/node_1.yaml
+- /root/Python_project/tranfer2_clash_dir/node_2.yaml
+- /root/Python_project/tranfer2_clash_dir/node_3.yaml
+- /root/Python_project/tranfer2_clash_dir/node_4.yaml
+speed_test_finish_file:
+- /root/Python_project/clash_node_dir/node_0.yaml
+- /root/Python_project/tranfer2_clash_dir/node_0.yaml
+- /root/Python_project/tranfer2_clash_dir/node_1.yaml
+- /root/Python_project/clash_node_dir/node_1.yaml
+- /root/Python_project/clash_node_dir/node_2.yaml
+- /root/Python_project/tranfer2_clash_dir/node_2.yaml
+- /root/Python_project/clash_node_dir/node_3.yaml
+- /root/Python_project/tranfer2_clash_dir/node_3.yaml
+- /root/Python_project/tranfer2_clash_dir/node_4.yaml
+- /root/Python_project/clash_node_dir/node_4.yaml
+- /root/Python_project/clash_node_dir/node_5.yaml
+- /root/Python_project/clash_node_dir/node_6.yaml

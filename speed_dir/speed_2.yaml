@@ -1,0 +1,82 @@
+proxy-providers: {}
+proxies:
+    - alterId: 64
+      cipher: auto
+      name: Github搜索TrojanLinks
+      network: tcp
+      port: 59652
+      server: 183.236.51.38
+      skip-cert-verify: true
+      type: vmess
+      uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+      ws-opts: {}
+    - alterId: 64
+      cipher: auto
+      name: Github搜索TrojanLinks
+      network: tcp
+      port: 59003
+      server: 183.236.51.36
+      skip-cert-verify: true
+      type: vmess
+      uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+      ws-opts: {}
+    - alterId: 64
+      cipher: auto
+      name: Github搜索TrojanLinks
+      network: tcp
+      port: 50002
+      server: 120.210.205.59
+      skip-cert-verify: true
+      type: vmess
+      uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+      ws-opts: {}
+    - alterId: 64
+      cipher: auto
+      name: Github搜索TrojanLinks
+      network: tcp
+      port: 50002
+      server: 47.116.166.178
+      skip-cert-verify: true
+      type: vmess
+      uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+      ws-opts: {}
+    - alterId: 64
+      cipher: auto
+      name: Github搜索TrojanLinks
+      network: tcp
+      port: 50002
+      server: 47.104.186.133
+      skip-cert-verify: true
+      type: vmess
+      uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+      ws-opts: {}
+    - alterId: 64
+      cipher: auto
+      name: Github搜索TrojanLinks
+      network: tcp
+      port: 50002
+      server: 47.92.152.169
+      skip-cert-verify: true
+      type: vmess
+      uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+      ws-opts: {}
+    - alterId: 64
+      cipher: auto
+      name: Github搜索TrojanLinks
+      network: tcp
+      port: 52082
+      server: 120.198.71.216
+      skip-cert-verify: true
+      type: vmess
+      uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+      ws-opts: {}
+    - alterId: 64
+      cipher: auto
+      name: Github搜索TrojanLinks
+      network: tcp
+      port: 50002
+      server: 120.26.55.225
+      skip-cert-verify: true
+      type: vmess
+      uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+      ws-opts: {}
